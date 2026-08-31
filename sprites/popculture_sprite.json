@@ -1097,5 +1097,19 @@
     "width": 32,
     "height": 32,
     "pixelRatio": 1
+  },
+  "icon-167": {
+    "x": 224,
+    "y": 192,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 1
+  },
+  "icon-168": {
+    "x": 256,
+    "y": 192,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 1
   }
 }
